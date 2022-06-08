@@ -177,8 +177,7 @@ array.find(function(value, index) {
 // Visited index 0 with value 0
 // Visited index 1 with value 1
 // Visited index 2 with value undefined
-// Visited index 3 with value undefined
-// Visited index 4 with value undefined
+// Visited index 3 with value unth value undefined
 // Visited index 5 with value undefined
 // Visited index 6 with value 6
 ```
